@@ -1,0 +1,103 @@
+{ "products":[
+    {
+      "id": 1,
+      "name": "Vela de Cemento Geométrica",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956602/Imagenes%20App%20E-commerce/1_mczlkt.jpg",
+      "category": "Cemento",
+      "description": "Vela artesanal hecha de cemento con forma geométrica única.",
+      "price": 16.99,
+      "quantity": 1,
+      "title": "Vela de Cemento Geométrica"
+    },
+    {
+      "id": 2,
+      "name": "Vela de Terrazo Moderna",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956602/Imagenes%20App%20E-commerce/2_ud3s5x.jpg",
+      "category": "Terrazo",
+      "description": "Vela con base de terrazo en tonos modernos y elegantes.",
+      "price": 22.50,
+      "quantity": 1,
+      "title": "Vela de Terrazo Moderna"
+    },
+    {
+      "id": 3,
+      "name": "Set de Velas de Cemento",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956643/Imagenes%20App%20E-commerce/3_bka9wn.jpg",
+      "category": "Set",
+      "description": "Conjunto de velas artesanales de cemento en diferentes formas.",
+      "price": 28.99,
+      "quantity": 1,
+      "title": "Set de Velas de Cemento"
+    },
+    {
+      "id": 4,
+      "name": "Vela de Terrazo Redonda",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956643/Imagenes%20App%20E-commerce/7_kjtaiu.jpg",
+      "category": "Terrazo",
+      "description": "Vela redonda con base de terrazo y detalles de colores.",
+      "price": 19.75,
+      "quantity": 1,
+      "title": "Vela de Terrazo Redonda"
+    },
+    {
+      "id": 5,
+      "name": "Vela de Cemento con Relieve",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956644/Imagenes%20App%20E-commerce/5_x2oorb.jpg",
+      "category": "Cemento",
+      "description": "Vela de cemento con superficie en relieve y diseño artístico.",
+      "price": 14.99,
+      "quantity": 1,
+      "title": "Vela de Cemento con Relieve"
+    },
+    {
+      "id": 6,
+      "name": "Vela de Terrazo en Forma de Diamante",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956643/Imagenes%20App%20E-commerce/8_efccv4.jpg",
+      "category": "Terrazo",
+      "description": "Vela con forma de diamante hecha de terrazo multicolor.",
+      "price": 27.99,
+      "quantity": 1,
+      "title": "Vela de Terrazo en Forma de Diamante"
+    },
+    {
+      "id": 7,
+      "name": "Vela de Cemento con Patrón",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956644/Imagenes%20App%20E-commerce/4_qlutny.jpg",
+      "category": "Cemento",
+      "description": "Vela de cemento con patrón intrincado y diseño visual.",
+      "price": 21.49,
+      "quantity": 1,
+      "title": "Vela de Cemento con Patrón"
+    },
+    {
+      "id": 8,
+      "name": "Vela de Terrazo Ovalada",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956644/Imagenes%20App%20E-commerce/9_bxlkt7.jpg",
+      "category": "Terrazo",
+      "description": "Vela ovalada con base de terrazo y detalles únicos.",
+      "price": 24.99,
+      "quantity": 1,
+      "title": "Vela de Terrazo Ovalada"
+    },
+    {
+      "id": 9,
+      "name": "Vela de Cemento Elegante",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956644/Imagenes%20App%20E-commerce/6_kiubsv.jpg",
+      "category": "Cemento",
+      "description": "Vela de cemento con diseño elegante y moderno.",
+      "price": 18.95,
+      "quantity": 1,
+      "title": "Vela de Cemento Elegante"
+    },
+    {
+      "id": 10,
+      "name": "Vela de Terrazo en Forma de Cuenco",
+      "image": "https://res.cloudinary.com/dtynrfs5m/image/upload/v1691956645/Imagenes%20App%20E-commerce/12_xsvdxh.jpg",
+      "category": "Terrazo",
+      "description": "Vela en forma de cuenco hecha de terrazo con texturas naturales.",
+      "price": 32.95,
+      "quantity": 1,
+      "title": "Vela de Terrazo en Forma de Cuenco"
+    }
+  ]
+  }
